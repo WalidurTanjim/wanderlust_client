@@ -1,0 +1,51 @@
+[
+     {
+          "id": 1,
+          "quote": "The Bali Trip Was Absolutely Magical! Every Detail Was Perfectly Planned. The Resorts Were Luxurious And The Cultural Experiences Were Unforgettable.",
+          "name": "Michael Chen",
+          "location": "Singapore",
+          "image": "https://plus.unsplash.com/premium_photo-1664368832311-7fe635e32c7c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+     },
+     {
+          "id": 2,
+          "quote": "Swiss Alps Adventure Exceeded All Expectations. The Mountain Views Were Breathtaking And Our Guide Was Incredibly Knowledgeable. Highly Recommend!",
+          "name": "Sarah Johnson",
+          "location": "New York, USA",
+          "image": "https://plus.unsplash.com/premium_photo-1664368832311-7fe635e32c7c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+     },
+     {
+          "id": 3,
+          "quote": "Exploring Kyoto During Cherry Blossom Season Was A Dream Come True. Seamless Logistics And Unmatched Hospitality Throughout The Entire Journey.",
+          "name": "David Miller",
+          "location": "London, UK",
+          "image": "https://plus.unsplash.com/premium_photo-1664368832311-7fe635e32c7c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+     },
+     {
+          "id": 4,
+          "quote": "The African Safari Package Was Beyond Incredible. Seeing The Wildlife Up Close While Staying In World-Class Lodges Was The Experience Of A Lifetime.",
+          "name": "Elena Rostova",
+          "location": "Sydney, Australia",
+          "image": "https://plus.unsplash.com/premium_photo-1664368832311-7fe635e32c7c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+     },
+     {
+          "id": 5,
+          "quote": "Island Hopping In Greece Was Perfectly Curated. From Private Boat Tours To Authentic Local Cuisine, Every Single Moment Was Pure Magic.",
+          "name": "Carlos Gomez",
+          "location": "Madrid, Spain",
+          "image": "https://plus.unsplash.com/premium_photo-1664368832311-7fe635e32c7c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+     },
+     {
+          "id": 6,
+          "quote": "Visiting Amalfi Coast Was An Absolute Joy. The Accommodations Had Stunning Sea Views And The Itinerary Allowed Us To Explore At The Perfect Pace.",
+          "name": "Amina Al-Mansoor",
+          "location": "Dubai, UAE",
+          "image": "https://plus.unsplash.com/premium_photo-1664368832311-7fe635e32c7c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+     },
+     {
+          "id": 7,
+          "quote": "Northern Lights Expedition In Norway Was Breath-Taking. Flawless Service, Top-Tier Comfort, And Memories Our Family Will Cherish Forever.",
+          "name": "Liam Wilson",
+          "location": "Toronto, Canada",
+          "image": "https://plus.unsplash.com/premium_photo-1664368832311-7fe635e32c7c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+     }
+]

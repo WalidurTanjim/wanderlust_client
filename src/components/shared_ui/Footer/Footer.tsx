@@ -19,7 +19,7 @@ const Footer = () => {
 
      return (
           <footer className="bg-zinc-50 pt-15 px-6 md:px-12 lg:px-24 xl:px-40">
-               <div className="max-w-7xl mx-auto">
+               <div className="w-full max-w-7xl mx-auto">
                     <div className="flex flex-col lg:flex-row gap-16 pb-12">
                          <div className="flex-1 max-w-full lg:max-w-100">
                               <div className="mb-6 text-xl font-semibold text-slate-700"><Link href={`/`}>Wanderlust</Link></div>

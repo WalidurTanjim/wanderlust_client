@@ -12,8 +12,8 @@ const Navbar = () => {
      ]
 
      return (
-          <>
-               <nav className="bg-white px-6 md:px-12 lg:px-24 xl:px-40 py-5 flex items-center justify-between relative">
+          <div className="bg-white px-6 md:px-12 lg:px-24 xl:px-40 py-5">
+               <nav className="w-full max-w-7xl mx-auto flex items-center justify-between relative">
                     <Link href="/" className="text-xl font-semibold text-slate-700">Wanderlust</Link>
 
                     <div className="hidden md:flex items-center bg-zinc-50 border border-zinc-200 rounded-full px-1 py-1 gap-2">
@@ -53,7 +53,7 @@ const Navbar = () => {
                          </div>
                     )}
                </nav>
-          </>
+          </div>
      )
 }
 
