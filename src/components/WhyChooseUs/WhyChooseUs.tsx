@@ -29,7 +29,7 @@ const WhyChooseUs = () => {
                <div className="max-w-6xl mx-auto">
                     {/* Header Section */}
                     <div className="text-center mb-12">
-                         <h2 className="text-3xl sm:text-4xl md:text-5xl font-serif text-slate-900 mb-3 tracking-tight">
+                         <h2 className="text-3xl sm:text-4xl md:text-5xl text-slate-900 mb-3 tracking-tight">
                               Why Choose Wanderlust
                          </h2>
                          <p className="text-gray-500 text-sm sm:text-base font-normal">

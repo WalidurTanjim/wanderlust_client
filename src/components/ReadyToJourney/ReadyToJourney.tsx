@@ -21,7 +21,7 @@ const ReadyToJourney = () => {
                {/* Content Container */}
                <div className="relative z-10 text-center max-w-3xl mx-auto flex flex-col items-center">
                     {/* Title */}
-                    <h2 className="text-3xl sm:text-4xl md:text-5xl font-serif text-white mb-4 tracking-tight">
+                    <h2 className="text-3xl sm:text-4xl md:text-5xl text-white mb-4 tracking-tight">
                          Ready To Start Your Journey?
                     </h2>
 
