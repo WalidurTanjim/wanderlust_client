@@ -88,7 +88,7 @@ const Footer = () => {
                     </div>
 
                     <div className="flex flex-col md:flex-row justify-between items-center gap-4 py-4 border-t border-zinc-300">
-                         <p className="text-sm text-zinc-500">&copy; {new Date().getFullYear()} PrebuiltUI. All Right Reserved.</p>
+                         <p className="text-sm text-zinc-500">&copy; PrebuiltUI. All Right Reserved.</p>
                          <div className="flex flex-wrap justify-center gap-5 md:gap-9">
                               <Link href="#" className="text-sm text-zinc-500 hover:text-zinc-700 transition-colors">Privacy Policy</Link>
                               <Link href="#" className="text-sm text-zinc-500 hover:text-zinc-700 transition-colors">Terms of Service</Link>
