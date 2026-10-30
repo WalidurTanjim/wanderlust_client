@@ -58,7 +58,7 @@ const TravelPackageForm = () => {
           setForm(initialForm)
 
           try{
-               const res = await fetch(`http://localhost:5000/add-travel-package`, {
+               const res = await fetch(`http://localhost:5000/travel-package`, {
                     method: "POST",
                     headers: {
                          "Content-Type": "application/json"
