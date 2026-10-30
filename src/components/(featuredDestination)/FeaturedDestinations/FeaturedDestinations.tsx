@@ -1,6 +1,7 @@
 import React, { Suspense } from 'react';
 import { ArrowRight } from 'lucide-react';
 import FeaturedDestinationsList from '../FeaturedDestinationList/FeaturedDestinationList';
+import Link from 'next/link';
 
 const FeaturedDestinations = () => {
   return (
@@ -19,13 +20,8 @@ const FeaturedDestinations = () => {
 
           {/* All Destinations Button Link */}
           <div>
-            <a
-              href="/destinations"
-              className="inline-flex items-center gap-2 border border-[#00A3C4] text-[#00A3C4] hover:bg-[#00A3C4] hover:text-white px-5 py-2.5 text-xs sm:text-sm font-medium tracking-wider uppercase transition-colors duration-200"
-            >
-              ALL DESTINATIONS
-              <ArrowRight className="w-4 h-4" />
-            </a>
+            <Link href="/destinations" className="inline-flex items-center gap-2 border border-[#00A3C4] text-[#00A3C4] hover:bg-[#00A3C4] hover:text-white px-5 py-2.5 text-xs sm:text-sm font-medium tracking-wider uppercase transition-colors duration-200">ALL DESTINATIONS<ArrowRight className="w-4 h-4" />
+            </Link>
           </div>
         </div>
 

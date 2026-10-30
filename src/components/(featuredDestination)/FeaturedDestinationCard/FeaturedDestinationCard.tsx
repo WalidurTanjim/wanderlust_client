@@ -2,6 +2,7 @@ import React from 'react';
 import Image from 'next/image';
 import { MapPin, Calendar, ArrowUpRight, Star } from 'lucide-react';
 import { Destination } from '@/types/destination'; // Adjust path if needed
+import Link from 'next/link';
 
 interface FeaturedDestinationCardProps {
   destination: Destination;
@@ -56,10 +57,12 @@ const FeaturedDestinationCard: React.FC<FeaturedDestinationCardProps> = ({ desti
 
         {/* Action Button */}
         <div>
-          <button className="text-[#00A3C4] hover:text-[#008da9] font-medium text-xs sm:text-sm tracking-wider uppercase flex items-center gap-1 transition-colors duration-200">
+          <Link href={`/destinations/${destination?._id}`}>
+            <button className="text-[#00A3C4] hover:text-[#008da9] font-medium text-xs sm:text-sm tracking-wider uppercase flex items-center gap-1 transition-colors duration-200">
             BOOK NOW
             <ArrowUpRight className="w-4 h-4" />
           </button>
+          </Link>
         </div>
       </div>
     </div>
